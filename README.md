@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Wisdom, a full stack software developer and UI designer based in Nigeria.
+I'm lelmicox, a full stack software developer and UI designer based in Nigeria.
 
 I mostly work on web development, clean architecture, and automated workflows—using PHP, Python, JavaScript, and custom styling.
 
